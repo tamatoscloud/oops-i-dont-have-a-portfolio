@@ -1,0 +1,7 @@
+node_modules
+dist
+_preview
+.DS_Store
+*.local
+tsconfig.tsbuildinfo
+*.pdf

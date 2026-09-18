@@ -1,0 +1,2901 @@
+{
+  "title": "Oops, I Don't Have a Portfolio.",
+  "subtitle": "An argument for the work behind the work",
+  "author": "Salman Ali",
+  "role": "Senior Strategist",
+  "location": "Sydney \u00b7 Australian Permanent Resident",
+  "masthead": "Issue 01",
+  "tagline": "Strategist. Storyteller. Belief breaker.",
+  "cta": {
+    "label": "If this got you curious, let's talk.",
+    "line": "Portfolios tell you what I made. Conversations reveal why."
+  },
+  "chapters": [
+    {
+      "id": "cover",
+      "title": "Oops, I Don't Have a Portfolio.",
+      "kicker": "Vol. 01 \u2014 An argument for the work behind the work",
+      "page": 1,
+      "pageSrc": "/pages/page-01.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "cover-splash",
+          "src": "/frames/001-cover-splash.webp",
+          "thumb": "/thumbs/001-cover-splash.webp",
+          "role": "splash",
+          "caption": "Senior Strategist. Sydney. Australian Permanent Resident.",
+          "quote": "",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 1
+        },
+        {
+          "id": "cover-airport",
+          "src": "/frames/002-cover-airport.webp",
+          "thumb": "/thumbs/002-cover-airport.webp",
+          "role": "wide",
+          "caption": "Right place. Wrong context.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1071,
+          "height": 758,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.36,
+            0.2,
+            0.6,
+            0.3
+          ],
+          "frame": 2
+        },
+        {
+          "id": "cover-context",
+          "src": "/frames/003-cover-context.webp",
+          "thumb": "/thumbs/003-cover-context.webp",
+          "role": "portrait",
+          "caption": "The first thing a new country takes away is your context.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 657,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.045,
+            0.22,
+            0.33,
+            0.26
+          ],
+          "frame": 3
+        },
+        {
+          "id": "cover-step-1",
+          "src": "/frames/004-cover-step-1.webp",
+          "thumb": "/thumbs/004-cover-step-1.webp",
+          "role": "detail",
+          "caption": "Back home: known, not famous. Advertising famous.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 857,
+          "height": 265,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.045,
+            0.49,
+            0.48,
+            0.105
+          ],
+          "frame": 4
+        },
+        {
+          "id": "cover-step-2",
+          "src": "/frames/005-cover-step-2.webp",
+          "thumb": "/thumbs/005-cover-step-2.webp",
+          "role": "detail",
+          "caption": "That tiny celebrity status expires between baggage claim and customs.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 857,
+          "height": 227,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.045,
+            0.59,
+            0.48,
+            0.09
+          ],
+          "frame": 5
+        },
+        {
+          "id": "cover-step-3",
+          "src": "/frames/006-cover-step-3.webp",
+          "thumb": "/thumbs/006-cover-step-3.webp",
+          "role": "detail",
+          "caption": "Suddenly you need three things: a resume, a cover letter, and a portfolio.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 857,
+          "height": 227,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.045,
+            0.675,
+            0.48,
+            0.09
+          ],
+          "frame": 6
+        },
+        {
+          "id": "cover-step-4",
+          "src": "/frames/007-cover-step-4.webp",
+          "thumb": "/thumbs/007-cover-step-4.webp",
+          "role": "detail",
+          "caption": "The portfolio is where the trouble begins.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 857,
+          "height": 253,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.045,
+            0.76,
+            0.48,
+            0.1
+          ],
+          "frame": 7
+        },
+        {
+          "id": "cover-quote",
+          "src": "/frames/008-cover-quote.webp",
+          "thumb": "/thumbs/008-cover-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "You land with fourteen years of experience and the professional recognition of a man who has joined the wrong group chat.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 785,
+          "height": 959,
+          "page": 1,
+          "pageSrc": "/pages/page-01.webp",
+          "box": [
+            0.52,
+            0.5,
+            0.44,
+            0.38
+          ],
+          "frame": 8
+        }
+      ]
+    },
+    {
+      "id": "what-is-a-portfolio",
+      "title": "But what is a strategy portfolio again?",
+      "kicker": "The campaign is the plate. Strategy is everything that happened in the kitchen.",
+      "page": 2,
+      "pageSrc": "/pages/page-02.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p2-header",
+          "src": "/frames/009-p2-header.webp",
+          "thumb": "/thumbs/009-p2-header.webp",
+          "role": "wide",
+          "caption": "The campaign is the plate. Strategy is everything that happened in the kitchen.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 341,
+          "page": 2,
+          "pageSrc": "/pages/page-02.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.135
+          ],
+          "frame": 9
+        },
+        {
+          "id": "p2-usual",
+          "src": "/frames/010-p2-usual.webp",
+          "thumb": "/thumbs/010-p2-usual.webp",
+          "role": "grid-beat",
+          "caption": "The usual answer: finished campaigns, neat case studies, a graph moving up and to the right.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 644,
+          "page": 2,
+          "pageSrc": "/pages/page-02.webp",
+          "box": [
+            0.04,
+            0.16,
+            0.455,
+            0.255
+          ],
+          "frame": 10
+        },
+        {
+          "id": "p2-award",
+          "src": "/frames/011-p2-award.webp",
+          "thumb": "/thumbs/011-p2-award.webp",
+          "role": "grid-beat",
+          "caption": "Obey the story. Serve the outcome. Delete the chaos.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 644,
+          "page": 2,
+          "pageSrc": "/pages/page-02.webp",
+          "box": [
+            0.5,
+            0.16,
+            0.455,
+            0.255
+          ],
+          "frame": 11
+        },
+        {
+          "id": "p2-story",
+          "src": "/frames/012-p2-story.webp",
+          "thumb": "/thumbs/012-p2-story.webp",
+          "role": "grid-beat",
+          "caption": "The story that makes it in never mentions the arguments, dead ideas, and chaos in between.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 644,
+          "page": 2,
+          "pageSrc": "/pages/page-02.webp",
+          "box": [
+            0.04,
+            0.415,
+            0.455,
+            0.255
+          ],
+          "frame": 12
+        },
+        {
+          "id": "p2-not-pointless",
+          "src": "/frames/013-p2-not-pointless.webp",
+          "thumb": "/thumbs/013-p2-not-pointless.webp",
+          "role": "grid-beat",
+          "caption": "Finished campaigns do not tell the whole truth about strategy.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 644,
+          "page": 2,
+          "pageSrc": "/pages/page-02.webp",
+          "box": [
+            0.5,
+            0.415,
+            0.455,
+            0.255
+          ],
+          "frame": 13
+        },
+        {
+          "id": "p2-quote",
+          "src": "/frames/014-p2-quote.webp",
+          "thumb": "/thumbs/014-p2-quote.webp",
+          "role": "splash",
+          "caption": "Show the work. Earn the trust. Then the work speaks louder.",
+          "quote": "The campaign is the plate. Strategy is the recipe, the shopping, the missing ingredient, the argument in the kitchen, and the moment someone quietly changes the dish after you leave the room.",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1642,
+          "height": 505,
+          "page": 2,
+          "pageSrc": "/pages/page-02.webp",
+          "box": [
+            0.04,
+            0.67,
+            0.92,
+            0.2
+          ],
+          "frame": 14
+        }
+      ]
+    },
+    {
+      "id": "the-market",
+      "title": "Before the brands, the market",
+      "kicker": "Before the work, you need the country behind it.",
+      "page": 3,
+      "pageSrc": "/pages/page-03.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p3-header",
+          "src": "/frames/015-p3-header.webp",
+          "thumb": "/thumbs/015-p3-header.webp",
+          "role": "wide",
+          "caption": "Before the work, you need the country behind it.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 404,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.16
+          ],
+          "frame": 15
+        },
+        {
+          "id": "p3-pakistan",
+          "src": "/frames/016-p3-pakistan.webp",
+          "thumb": "/thumbs/016-p3-pakistan.webp",
+          "role": "wide",
+          "caption": "Karachi feels like almost the population of Australia compressed into one concrete organism.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 990,
+          "height": 707,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.4,
+            0.155,
+            0.555,
+            0.28
+          ],
+          "frame": 16
+        },
+        {
+          "id": "p3-census",
+          "src": "/frames/017-p3-census.webp",
+          "thumb": "/thumbs/017-p3-census.webp",
+          "role": "detail",
+          "caption": "2023 census: more than 241 million people. In conversation, round it to 250.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 642,
+          "height": 454,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.04,
+            0.185,
+            0.36,
+            0.18
+          ],
+          "frame": 17
+        },
+        {
+          "id": "p3-no-data",
+          "src": "/frames/018-p3-no-data.webp",
+          "thumb": "/thumbs/018-p3-no-data.webp",
+          "role": "portrait",
+          "caption": "No retail audits. No brand health. No reliable category numbers. Planning meant asking uncomfortable questions.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 500,
+          "height": 707,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.04,
+            0.37,
+            0.28,
+            0.28
+          ],
+          "frame": 18
+        },
+        {
+          "id": "p3-mattress",
+          "src": "/frames/019-p3-mattress.webp",
+          "thumb": "/thumbs/019-p3-mattress.webp",
+          "role": "detail",
+          "caption": "1. Banking was competing with the mattress.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 374,
+          "height": 556,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.325,
+            0.44,
+            0.21,
+            0.22
+          ],
+          "frame": 19
+        },
+        {
+          "id": "p3-milkman",
+          "src": "/frames/020-p3-milkman.webp",
+          "thumb": "/thumbs/020-p3-milkman.webp",
+          "role": "detail",
+          "caption": "2. Packaged milk was fighting a milkman who knew your gate.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 375,
+          "height": 556,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.535,
+            0.44,
+            0.21,
+            0.22
+          ],
+          "frame": 20
+        },
+        {
+          "id": "p3-icecream",
+          "src": "/frames/021-p3-icecream.webp",
+          "thumb": "/thumbs/021-p3-icecream.webp",
+          "role": "detail",
+          "caption": "3. Ice cream and life insurance sat at the same tiny level of penetration.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 375,
+          "height": 556,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.745,
+            0.44,
+            0.21,
+            0.22
+          ],
+          "frame": 21
+        },
+        {
+          "id": "p3-desk",
+          "src": "/frames/022-p3-desk.webp",
+          "thumb": "/thumbs/022-p3-desk.webp",
+          "role": "wide",
+          "caption": "Numbers without context are just decoration. Real insight lives outside the default data.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1124,
+          "height": 631,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.325,
+            0.66,
+            0.63,
+            0.25
+          ],
+          "frame": 22
+        },
+        {
+          "id": "p3-quote",
+          "src": "/frames/023-p3-quote.webp",
+          "thumb": "/thumbs/023-p3-quote.webp",
+          "role": "portrait",
+          "caption": "",
+          "quote": "The easy answers did not exist. Consumers needed a reason to care long before they needed a reason to buy.",
+          "pin": false,
+          "kenBurns": false,
+          "width": 500,
+          "height": 707,
+          "page": 3,
+          "pageSrc": "/pages/page-03.webp",
+          "box": [
+            0.04,
+            0.66,
+            0.28,
+            0.28
+          ],
+          "frame": 23
+        }
+      ]
+    },
+    {
+      "id": "building-strategy",
+      "title": "The first category I had to build was strategy",
+      "kicker": "In a mature market, a strategist receives a brief. In mine, the brief often arrived as an answer.",
+      "page": 4,
+      "pageSrc": "/pages/page-04.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p4-header",
+          "src": "/frames/024-p4-header.webp",
+          "thumb": "/thumbs/024-p4-header.webp",
+          "role": "wide",
+          "caption": "In a mature market, a strategist receives a brief. In mine, the brief often arrived as an answer.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 303,
+          "page": 4,
+          "pageSrc": "/pages/page-04.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.12
+          ],
+          "frame": 24
+        },
+        {
+          "id": "p4-bubbles",
+          "src": "/frames/025-p4-bubbles.webp",
+          "thumb": "/thumbs/025-p4-bubbles.webp",
+          "role": "wide",
+          "caption": "We need a television commercial. We need something digital. We need sales. We need it before Monday.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 252,
+          "page": 4,
+          "pageSrc": "/pages/page-04.webp",
+          "box": [
+            0.04,
+            0.145,
+            0.92,
+            0.1
+          ],
+          "frame": 25
+        },
+        {
+          "id": "p4-war-room",
+          "src": "/frames/026-p4-war-room.webp",
+          "thumb": "/thumbs/026-p4-war-room.webp",
+          "role": "wide",
+          "caption": "So\u2026 what's the real problem here?",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 892,
+          "height": 809,
+          "page": 4,
+          "pageSrc": "/pages/page-04.webp",
+          "box": [
+            0.04,
+            0.245,
+            0.5,
+            0.32
+          ],
+          "frame": 26
+        },
+        {
+          "id": "p4-backwards",
+          "src": "/frames/027-p4-backwards.webp",
+          "thumb": "/thumbs/027-p4-backwards.webp",
+          "role": "portrait",
+          "caption": "The output had already been ordered. Research was expensive. Assumptions were free.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 741,
+          "height": 809,
+          "page": 4,
+          "pageSrc": "/pages/page-04.webp",
+          "box": [
+            0.545,
+            0.245,
+            0.415,
+            0.32
+          ],
+          "frame": 27
+        },
+        {
+          "id": "p4-explain",
+          "src": "/frames/028-p4-explain.webp",
+          "thumb": "/thumbs/028-p4-explain.webp",
+          "role": "portrait",
+          "caption": "A deliverable is not a brief. An offer is not a positioning. A consumer is more than a wallet attached to a mobile phone.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 714,
+          "height": 809,
+          "page": 4,
+          "pageSrc": "/pages/page-04.webp",
+          "box": [
+            0.04,
+            0.57,
+            0.4,
+            0.32
+          ],
+          "frame": 28
+        },
+        {
+          "id": "p4-quote",
+          "src": "/frames/029-p4-quote.webp",
+          "thumb": "/thumbs/029-p4-quote.webp",
+          "role": "wide",
+          "caption": "Deadline hostage situation.",
+          "quote": "The strategist had to be a researcher, teacher, translator, provocateur, diplomat, and on particularly difficult afternoons, a hostage negotiator with PowerPoint.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 928,
+          "height": 884,
+          "page": 4,
+          "pageSrc": "/pages/page-04.webp",
+          "box": [
+            0.44,
+            0.57,
+            0.52,
+            0.35
+          ],
+          "frame": 29
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "What I have actually spent my career doing",
+      "kicker": "The category list is long. The more useful version is this.",
+      "page": 5,
+      "pageSrc": "/pages/page-05.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p5-header",
+          "src": "/frames/030-p5-header.webp",
+          "thumb": "/thumbs/030-p5-header.webp",
+          "role": "wide",
+          "caption": "The category list is long. The more useful version is this.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 366,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.145
+          ],
+          "frame": 30
+        },
+        {
+          "id": "p5-tiger",
+          "src": "/frames/031-p5-tiger.webp",
+          "thumb": "/thumbs/031-p5-tiger.webp",
+          "role": "grid-beat",
+          "caption": "Tiger: stop talking only about price and energy. Start defending childhood itself.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 391,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.04,
+            0.175,
+            0.455,
+            0.155
+          ],
+          "frame": 31
+        },
+        {
+          "id": "p5-auto",
+          "src": "/frames/032-p5-auto.webp",
+          "thumb": "/thumbs/032-p5-auto.webp",
+          "role": "grid-beat",
+          "caption": "Automobile: not just a bigger car. A bigger life.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 391,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.5,
+            0.175,
+            0.455,
+            0.155
+          ],
+          "frame": 32
+        },
+        {
+          "id": "p5-milk",
+          "src": "/frames/033-p5-milk.webp",
+          "thumb": "/thumbs/033-p5-milk.webp",
+          "role": "grid-beat",
+          "caption": "Packaged milk: the real competitor was a boiling pot in almost every kitchen.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 392,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.04,
+            0.33,
+            0.455,
+            0.155
+          ],
+          "frame": 33
+        },
+        {
+          "id": "p5-insurance",
+          "src": "/frames/034-p5-insurance.webp",
+          "thumb": "/thumbs/034-p5-insurance.webp",
+          "role": "grid-beat",
+          "caption": "Life insurance: not selling a policy. Earning the courage to care.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 392,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.5,
+            0.33,
+            0.455,
+            0.155
+          ],
+          "frame": 34
+        },
+        {
+          "id": "p5-banking",
+          "src": "/frames/035-p5-banking.webp",
+          "thumb": "/thumbs/035-p5-banking.webp",
+          "role": "grid-beat",
+          "caption": "Banking: first we earn trust. Then we earn the right to serve.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 391,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.04,
+            0.485,
+            0.455,
+            0.155
+          ],
+          "frame": 35
+        },
+        {
+          "id": "p5-contraception",
+          "src": "/frames/036-p5-contraception.webp",
+          "thumb": "/thumbs/036-p5-contraception.webp",
+          "role": "grid-beat",
+          "caption": "Contraception: real strength is choosing responsibly.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 391,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.5,
+            0.485,
+            0.455,
+            0.155
+          ],
+          "frame": 36
+        },
+        {
+          "id": "p5-school",
+          "src": "/frames/037-p5-school.webp",
+          "thumb": "/thumbs/037-p5-school.webp",
+          "role": "grid-beat",
+          "caption": "Girls into school: let her dreams weigh as much.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 392,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.04,
+            0.64,
+            0.455,
+            0.155
+          ],
+          "frame": 37
+        },
+        {
+          "id": "p5-furniture",
+          "src": "/frames/038-p5-furniture.webp",
+          "thumb": "/thumbs/038-p5-furniture.webp",
+          "role": "grid-beat",
+          "caption": "Premium furniture: real quality doesn't shout. It stays.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 812,
+          "height": 392,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.5,
+            0.64,
+            0.455,
+            0.155
+          ],
+          "frame": 38
+        },
+        {
+          "id": "p5-quote",
+          "src": "/frames/039-p5-quote.webp",
+          "thumb": "/thumbs/039-p5-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "Most of these problems did not arrive in a clean brief. Most arrived disguised as requests for an advertisement.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 404,
+          "page": 5,
+          "pageSrc": "/pages/page-05.webp",
+          "box": [
+            0.04,
+            0.8,
+            0.92,
+            0.16
+          ],
+          "frame": 39
+        }
+      ]
+    },
+    {
+      "id": "trenches-1",
+      "title": "Three stories from the trenches",
+      "kicker": "Tiger. Rimula. Olper's.",
+      "page": 6,
+      "pageSrc": "/pages/page-06.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p6-header",
+          "src": "/frames/040-p6-header.webp",
+          "thumb": "/thumbs/040-p6-header.webp",
+          "role": "wide",
+          "caption": "Three stories from the trenches.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 278,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.11
+          ],
+          "frame": 40
+        },
+        {
+          "id": "p6-tiger-copy",
+          "src": "/frames/041-p6-tiger-copy.webp",
+          "thumb": "/thumbs/041-p6-tiger-copy.webp",
+          "role": "portrait",
+          "caption": "Tiger Biscuits and the right to remain a child.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 393,
+          "height": 707,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.04,
+            0.14,
+            0.22,
+            0.28
+          ],
+          "frame": 41
+        },
+        {
+          "id": "p6-tiger-strip",
+          "src": "/frames/042-p6-tiger-strip.webp",
+          "thumb": "/thumbs/042-p6-tiger-strip.webp",
+          "role": "wide",
+          "caption": "From filling a stomach to defending a right.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1249,
+          "height": 555,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.26,
+            0.135,
+            0.7,
+            0.22
+          ],
+          "frame": 42
+        },
+        {
+          "id": "p6-tiger-quote",
+          "src": "/frames/043-p6-tiger-quote.webp",
+          "thumb": "/thumbs/043-p6-tiger-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "Parents, let children be children.",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1249,
+          "height": 177,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.26,
+            0.355,
+            0.7,
+            0.07
+          ],
+          "frame": 43
+        },
+        {
+          "id": "p6-rimula-copy",
+          "src": "/frames/044-p6-rimula-copy.webp",
+          "thumb": "/thumbs/044-p6-rimula-copy.webp",
+          "role": "portrait",
+          "caption": "Shell Rimula and the truckers we salute.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 393,
+          "height": 707,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.04,
+            0.43,
+            0.22,
+            0.28
+          ],
+          "frame": 44
+        },
+        {
+          "id": "p6-rimula-strip",
+          "src": "/frames/045-p6-rimula-strip.webp",
+          "thumb": "/thumbs/045-p6-rimula-strip.webp",
+          "role": "wide",
+          "caption": "Hardworking oil. For hardworking people.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1249,
+          "height": 555,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.26,
+            0.43,
+            0.7,
+            0.22
+          ],
+          "frame": 45
+        },
+        {
+          "id": "p6-rimula-quote",
+          "src": "/frames/046-p6-rimula-quote.webp",
+          "thumb": "/thumbs/046-p6-rimula-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "Behind every delivery is a story of sacrifice. We salute the people who keep Pakistan moving.",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1249,
+          "height": 165,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.26,
+            0.65,
+            0.7,
+            0.065
+          ],
+          "frame": 46
+        },
+        {
+          "id": "p6-olpers-copy",
+          "src": "/frames/047-p6-olpers-copy.webp",
+          "thumb": "/thumbs/047-p6-olpers-copy.webp",
+          "role": "portrait",
+          "caption": "Olper's and the boiling pot.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 393,
+          "height": 556,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.04,
+            0.72,
+            0.22,
+            0.22
+          ],
+          "frame": 47
+        },
+        {
+          "id": "p6-olpers-strip",
+          "src": "/frames/048-p6-olpers-strip.webp",
+          "thumb": "/thumbs/048-p6-olpers-strip.webp",
+          "role": "wide",
+          "caption": "You boil, you spoil.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1249,
+          "height": 455,
+          "page": 6,
+          "pageSrc": "/pages/page-06.webp",
+          "box": [
+            0.26,
+            0.72,
+            0.7,
+            0.18
+          ],
+          "frame": 48
+        }
+      ]
+    },
+    {
+      "id": "trenches-2",
+      "title": "And three more.",
+      "kicker": "Josh. Lifebuoy. Habitt.",
+      "page": 7,
+      "pageSrc": "/pages/page-07.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p7-header",
+          "src": "/frames/049-p7-header.webp",
+          "thumb": "/thumbs/049-p7-header.webp",
+          "role": "wide",
+          "caption": "And three more.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 253,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.1
+          ],
+          "frame": 49
+        },
+        {
+          "id": "p7-josh",
+          "src": "/frames/050-p7-josh.webp",
+          "thumb": "/thumbs/050-p7-josh.webp",
+          "role": "wide",
+          "caption": "Josh and the uncomfortable meaning of masculinity.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 892,
+          "height": 556,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.04,
+            0.125,
+            0.5,
+            0.22
+          ],
+          "frame": 50
+        },
+        {
+          "id": "p7-josh-copy",
+          "src": "/frames/051-p7-josh-copy.webp",
+          "thumb": "/thumbs/051-p7-josh-copy.webp",
+          "role": "detail",
+          "caption": "",
+          "quote": "You are not selling contraception. You are renegotiating the meaning of being a man.",
+          "pin": false,
+          "kenBurns": false,
+          "width": 741,
+          "height": 556,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.545,
+            0.125,
+            0.415,
+            0.22
+          ],
+          "frame": 51
+        },
+        {
+          "id": "p7-lifebuoy",
+          "src": "/frames/052-p7-lifebuoy.webp",
+          "thumb": "/thumbs/052-p7-lifebuoy.webp",
+          "role": "wide",
+          "caption": "Lifebuoy and the glass of milk.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 892,
+          "height": 631,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.04,
+            0.35,
+            0.5,
+            0.25
+          ],
+          "frame": 52
+        },
+        {
+          "id": "p7-lifebuoy-copy",
+          "src": "/frames/053-p7-lifebuoy-copy.webp",
+          "thumb": "/thumbs/053-p7-lifebuoy-copy.webp",
+          "role": "detail",
+          "caption": "Meri beti parhay gee.",
+          "quote": "The boy was seen as the family's future. The girl was raised for someone else's.",
+          "pin": false,
+          "kenBurns": false,
+          "width": 741,
+          "height": 631,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.545,
+            0.35,
+            0.415,
+            0.25
+          ],
+          "frame": 53
+        },
+        {
+          "id": "p7-habitt",
+          "src": "/frames/054-p7-habitt.webp",
+          "thumb": "/thumbs/054-p7-habitt.webp",
+          "role": "wide",
+          "caption": "Habitt and the carpenter inside the showroom.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 892,
+          "height": 555,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.04,
+            0.605,
+            0.5,
+            0.22
+          ],
+          "frame": 54
+        },
+        {
+          "id": "p7-habitt-copy",
+          "src": "/frames/055-p7-habitt-copy.webp",
+          "thumb": "/thumbs/055-p7-habitt-copy.webp",
+          "role": "detail",
+          "caption": "Imitation is easy. Originality is intent.",
+          "quote": "The problem was not furniture. The problem was the consumer's confidence that resemblance is the same as value.",
+          "pin": false,
+          "kenBurns": false,
+          "width": 741,
+          "height": 555,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.545,
+            0.605,
+            0.415,
+            0.22
+          ],
+          "frame": 55
+        },
+        {
+          "id": "p7-bottom",
+          "src": "/frames/056-p7-bottom.webp",
+          "thumb": "/thumbs/056-p7-bottom.webp",
+          "role": "wide",
+          "caption": "Strategy is in the sticky thought in the details. If it doesn't finish in behaviour, it only moves markets.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 303,
+          "page": 7,
+          "pageSrc": "/pages/page-07.webp",
+          "box": [
+            0.04,
+            0.83,
+            0.92,
+            0.12
+          ],
+          "frame": 56
+        }
+      ]
+    },
+    {
+      "id": "behind-the-work",
+      "title": "This is the work behind the work",
+      "kicker": "Question the reason. Change the result.",
+      "page": 8,
+      "pageSrc": "/pages/page-08.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p8-splash",
+          "src": "/frames/057-p8-splash.webp",
+          "thumb": "/thumbs/057-p8-splash.webp",
+          "role": "splash",
+          "caption": "A portfolio can show the campaign. It cannot always show the belief we had to break before the campaign could exist.",
+          "quote": "A portfolio can show you the advertisement that eventually appeared. It cannot always show you the belief we had to break before that advertisement could exist. And that is usually where the real work was.",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 8,
+          "pageSrc": "/pages/page-08.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 57
+        }
+      ]
+    },
+    {
+      "id": "interlude-wait",
+      "title": "But wait! Did you notice something?",
+      "kicker": "Interlude",
+      "page": 9,
+      "pageSrc": "/pages/page-09.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p9-splash",
+          "src": "/frames/058-p9-splash.webp",
+          "thumb": "/thumbs/058-p9-splash.webp",
+          "role": "interstitial",
+          "caption": "Find the belief. Challenge the behaviour. Change the brand's role.",
+          "quote": "",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 9,
+          "pageSrc": "/pages/page-09.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 58
+        },
+        {
+          "id": "p9-method",
+          "src": "/frames/059-p9-method.webp",
+          "thumb": "/thumbs/059-p9-method.webp",
+          "role": "wide",
+          "caption": "Observe more. Find the belief. Challenge the behaviour. Change the brand's role.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1035,
+          "height": 454,
+          "page": 9,
+          "pageSrc": "/pages/page-09.webp",
+          "box": [
+            0.38,
+            0.58,
+            0.58,
+            0.18
+          ],
+          "frame": 59
+        }
+      ]
+    },
+    {
+      "id": "pattern",
+      "title": "The pattern in the work",
+      "kicker": "These are not neat campaign rectangles. They are beliefs that had to be challenged.",
+      "page": 10,
+      "pageSrc": "/pages/page-10.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p10-header",
+          "src": "/frames/060-p10-header.webp",
+          "thumb": "/thumbs/060-p10-header.webp",
+          "role": "wide",
+          "caption": "These are not neat campaign rectangles. They are beliefs that had to be challenged.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 354,
+          "page": 10,
+          "pageSrc": "/pages/page-10.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.14
+          ],
+          "frame": 60
+        },
+        {
+          "id": "p10-beliefs-left",
+          "src": "/frames/061-p10-beliefs-left.webp",
+          "thumb": "/thumbs/061-p10-beliefs-left.webp",
+          "role": "portrait",
+          "caption": "A biscuit was only about price. Truckers were outsiders. Boiling made loose milk feel as good as packaged.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 500,
+          "height": 1566,
+          "page": 10,
+          "pageSrc": "/pages/page-10.webp",
+          "box": [
+            0.04,
+            0.17,
+            0.28,
+            0.62
+          ],
+          "frame": 61
+        },
+        {
+          "id": "p10-center",
+          "src": "/frames/062-p10-center.webp",
+          "thumb": "/thumbs/062-p10-center.webp",
+          "role": "portrait",
+          "caption": "",
+          "quote": "I find the belief that makes the behaviour feel reasonable. Then I question it.",
+          "pin": true,
+          "kenBurns": true,
+          "width": 642,
+          "height": 1263,
+          "page": 10,
+          "pageSrc": "/pages/page-10.webp",
+          "box": [
+            0.32,
+            0.17,
+            0.36,
+            0.5
+          ],
+          "frame": 62
+        },
+        {
+          "id": "p10-beliefs-right",
+          "src": "/frames/063-p10-beliefs-right.webp",
+          "thumb": "/thumbs/063-p10-beliefs-right.webp",
+          "role": "portrait",
+          "caption": "Fertility proved masculinity. A son represented the future more than a daughter. A copied design was the same product for less money.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 500,
+          "height": 1566,
+          "page": 10,
+          "pageSrc": "/pages/page-10.webp",
+          "box": [
+            0.68,
+            0.17,
+            0.28,
+            0.62
+          ],
+          "frame": 63
+        },
+        {
+          "id": "p10-brain",
+          "src": "/frames/064-p10-brain.webp",
+          "thumb": "/thumbs/064-p10-brain.webp",
+          "role": "wide",
+          "caption": "Then we can talk about the insight, the positioning, the messaging, the creative territories, and the whole shebang.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 454,
+          "page": 10,
+          "pageSrc": "/pages/page-10.webp",
+          "box": [
+            0.04,
+            0.78,
+            0.92,
+            0.18
+          ],
+          "frame": 64
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "title": "When the system did not exist",
+      "kicker": "If the infrastructure was missing, I tried to build pieces of it.",
+      "page": 11,
+      "pageSrc": "/pages/page-11.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p11-header",
+          "src": "/frames/065-p11-header.webp",
+          "thumb": "/thumbs/065-p11-header.webp",
+          "role": "wide",
+          "caption": "If the infrastructure was missing, I tried to build pieces of it.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 329,
+          "page": 11,
+          "pageSrc": "/pages/page-11.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.13
+          ],
+          "frame": 65
+        },
+        {
+          "id": "p11-sandpaper",
+          "src": "/frames/066-p11-sandpaper.webp",
+          "thumb": "/thumbs/066-p11-sandpaper.webp",
+          "role": "wide",
+          "caption": "Sandpaper: diagnosis before deliverables. Positioning before campaign lines.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1642,
+          "height": 556,
+          "page": 11,
+          "pageSrc": "/pages/page-11.webp",
+          "box": [
+            0.04,
+            0.155,
+            0.92,
+            0.22
+          ],
+          "frame": 66
+        },
+        {
+          "id": "p11-why",
+          "src": "/frames/067-p11-why.webp",
+          "thumb": "/thumbs/067-p11-why.webp",
+          "role": "wide",
+          "caption": "The Why Journey: culture is not a trend report you open when the brief asks for Gen Z.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1642,
+          "height": 555,
+          "page": 11,
+          "pageSrc": "/pages/page-11.webp",
+          "box": [
+            0.04,
+            0.375,
+            0.92,
+            0.22
+          ],
+          "frame": 67
+        },
+        {
+          "id": "p11-youth",
+          "src": "/frames/068-p11-youth.webp",
+          "thumb": "/thumbs/068-p11-youth.webp",
+          "role": "wide",
+          "caption": "National youth research in a country with a median age of around twenty.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1642,
+          "height": 556,
+          "page": 11,
+          "pageSrc": "/pages/page-11.webp",
+          "box": [
+            0.04,
+            0.595,
+            0.92,
+            0.22
+          ],
+          "frame": 68
+        },
+        {
+          "id": "p11-quote",
+          "src": "/frames/069-p11-quote.webp",
+          "thumb": "/thumbs/069-p11-quote.webp",
+          "role": "wide",
+          "caption": "I chose the second one.",
+          "quote": "When the research infrastructure you need does not exist, you can keep complaining about the absence of data. Or you can begin building the understanding yourself.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 353,
+          "page": 11,
+          "pageSrc": "/pages/page-11.webp",
+          "box": [
+            0.04,
+            0.82,
+            0.92,
+            0.14
+          ],
+          "frame": 69
+        }
+      ]
+    },
+    {
+      "id": "upstream",
+      "title": "What I expect strategy to do",
+      "kicker": "Not a funnel mechanic. Not a content calendar with a pulse. Upstream strategy.",
+      "page": 12,
+      "pageSrc": "/pages/page-12.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p12-header",
+          "src": "/frames/070-p12-header.webp",
+          "thumb": "/thumbs/070-p12-header.webp",
+          "role": "wide",
+          "caption": "The strategy I care about begins upstream.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 329,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.13
+          ],
+          "frame": 70
+        },
+        {
+          "id": "p12-1",
+          "src": "/frames/071-p12-1.webp",
+          "thumb": "/thumbs/071-p12-1.webp",
+          "role": "detail",
+          "caption": "1. Take the brief apart.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 391,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.04,
+            0.16,
+            0.33,
+            0.155
+          ],
+          "frame": 71
+        },
+        {
+          "id": "p12-2",
+          "src": "/frames/072-p12-2.webp",
+          "thumb": "/thumbs/072-p12-2.webp",
+          "role": "detail",
+          "caption": "2. Find the real challenge beneath the stated ask.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 391,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.37,
+            0.16,
+            0.33,
+            0.155
+          ],
+          "frame": 72
+        },
+        {
+          "id": "p12-brief-not",
+          "src": "/frames/073-p12-brief-not.webp",
+          "thumb": "/thumbs/073-p12-brief-not.webp",
+          "role": "portrait",
+          "caption": "This is not the problem. This is just the problem you are comfortable admitting.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 464,
+          "height": 808,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.7,
+            0.16,
+            0.26,
+            0.32
+          ],
+          "frame": 73
+        },
+        {
+          "id": "p12-3",
+          "src": "/frames/074-p12-3.webp",
+          "thumb": "/thumbs/074-p12-3.webp",
+          "role": "detail",
+          "caption": "3. Understand the business, the audience, the market, the competition, and the culture.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 392,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.04,
+            0.315,
+            0.33,
+            0.155
+          ],
+          "frame": 74
+        },
+        {
+          "id": "p12-4",
+          "src": "/frames/075-p12-4.webp",
+          "thumb": "/thumbs/075-p12-4.webp",
+          "role": "detail",
+          "caption": "4. Find the tension. Make a choice.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 392,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.37,
+            0.315,
+            0.33,
+            0.155
+          ],
+          "frame": 75
+        },
+        {
+          "id": "p12-5",
+          "src": "/frames/076-p12-5.webp",
+          "thumb": "/thumbs/076-p12-5.webp",
+          "role": "detail",
+          "caption": "5. Build the positioning and messaging.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 391,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.04,
+            0.47,
+            0.33,
+            0.155
+          ],
+          "frame": 76
+        },
+        {
+          "id": "p12-6",
+          "src": "/frames/077-p12-6.webp",
+          "thumb": "/thumbs/077-p12-6.webp",
+          "role": "detail",
+          "caption": "6. Define creative territories sharp enough to guide and open enough to inspire.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 391,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.37,
+            0.47,
+            0.33,
+            0.155
+          ],
+          "frame": 77
+        },
+        {
+          "id": "p12-7",
+          "src": "/frames/078-p12-7.webp",
+          "thumb": "/thumbs/078-p12-7.webp",
+          "role": "detail",
+          "caption": "7. Structure the story so the thinking lands in the room.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 392,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.04,
+            0.625,
+            0.33,
+            0.155
+          ],
+          "frame": 78
+        },
+        {
+          "id": "p12-8",
+          "src": "/frames/079-p12-8.webp",
+          "thumb": "/thumbs/079-p12-8.webp",
+          "role": "detail",
+          "caption": "8. Stay close to the work while it changes shape.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 589,
+          "height": 392,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.37,
+            0.625,
+            0.33,
+            0.155
+          ],
+          "frame": 79
+        },
+        {
+          "id": "p12-research",
+          "src": "/frames/080-p12-research.webp",
+          "thumb": "/thumbs/080-p12-research.webp",
+          "role": "portrait",
+          "caption": "Research is useful when it changes the decision. I want the tension that changes the brief.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 464,
+          "height": 758,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.7,
+            0.48,
+            0.26,
+            0.3
+          ],
+          "frame": 80
+        },
+        {
+          "id": "p12-quote",
+          "src": "/frames/081-p12-quote.webp",
+          "thumb": "/thumbs/081-p12-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "Strategy becomes useful when it reduces the number of equally attractive wrong answers.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 353,
+          "page": 12,
+          "pageSrc": "/pages/page-12.webp",
+          "box": [
+            0.04,
+            0.82,
+            0.92,
+            0.14
+          ],
+          "frame": 81
+        }
+      ]
+    },
+    {
+      "id": "vintage",
+      "title": "Vintage classics from early strategy days",
+      "kicker": "Old decks. Same brain.",
+      "page": 13,
+      "pageSrc": "/pages/page-13.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p13-splash",
+          "src": "/frames/082-p13-splash.webp",
+          "thumb": "/thumbs/082-p13-splash.webp",
+          "role": "interstitial",
+          "caption": "The decks were longer. The instincts were younger. The problem was still the problem.",
+          "quote": "",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 13,
+          "pageSrc": "/pages/page-13.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 82
+        }
+      ]
+    },
+    {
+      "id": "tiger-deep",
+      "title": "Tiger and the right to remain a child",
+      "kicker": "When the world gets heavy, childhood is the thing worth protecting.",
+      "page": 14,
+      "pageSrc": "/pages/page-14.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p14-header",
+          "src": "/frames/083-p14-header.webp",
+          "thumb": "/thumbs/083-p14-header.webp",
+          "role": "wide",
+          "caption": "When the world gets heavy, childhood is the thing worth protecting.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 303,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.12
+          ],
+          "frame": 83
+        },
+        {
+          "id": "p14-country",
+          "src": "/frames/084-p14-country.webp",
+          "thumb": "/thumbs/084-p14-country.webp",
+          "role": "detail",
+          "caption": "1. The country had become heavier.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 535,
+          "height": 404,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.04,
+            0.145,
+            0.3,
+            0.16
+          ],
+          "frame": 84
+        },
+        {
+          "id": "p14-parents",
+          "src": "/frames/085-p14-parents.webp",
+          "thumb": "/thumbs/085-p14-parents.webp",
+          "role": "detail",
+          "caption": "2. Parents responded by making childhood heavier too.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 536,
+          "height": 404,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.345,
+            0.145,
+            0.3,
+            0.16
+          ],
+          "frame": 85
+        },
+        {
+          "id": "p14-kids",
+          "src": "/frames/086-p14-kids.webp",
+          "thumb": "/thumbs/086-p14-kids.webp",
+          "role": "detail",
+          "caption": "3. Children were exposed to adult worries \u2014 too soon.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 553,
+          "height": 404,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.65,
+            0.145,
+            0.31,
+            0.16
+          ],
+          "frame": 86
+        },
+        {
+          "id": "p14-staple",
+          "src": "/frames/087-p14-staple.webp",
+          "thumb": "/thumbs/087-p14-staple.webp",
+          "role": "detail",
+          "caption": "Tiger was a basic staple. Useful? Yes. But not enough to earn love today.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 535,
+          "height": 404,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.04,
+            0.31,
+            0.3,
+            0.16
+          ],
+          "frame": 87
+        },
+        {
+          "id": "p14-not-nutrition",
+          "src": "/frames/088-p14-not-nutrition.webp",
+          "thumb": "/thumbs/088-p14-not-nutrition.webp",
+          "role": "detail",
+          "caption": "Tiger did not need another nutrition story.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 536,
+          "height": 404,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.345,
+            0.31,
+            0.3,
+            0.16
+          ],
+          "frame": 88
+        },
+        {
+          "id": "p14-realisation",
+          "src": "/frames/089-p14-realisation.webp",
+          "thumb": "/thumbs/089-p14-realisation.webp",
+          "role": "detail",
+          "caption": "Usefulness is already too crowded. That is the problem.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 553,
+          "height": 404,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.65,
+            0.31,
+            0.31,
+            0.16
+          ],
+          "frame": 89
+        },
+        {
+          "id": "p14-bachpan",
+          "src": "/frames/090-p14-bachpan.webp",
+          "thumb": "/thumbs/090-p14-bachpan.webp",
+          "role": "detail",
+          "caption": "The new idea: Bachpan Mubarak. Celebrate childhood.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 535,
+          "height": 506,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.04,
+            0.475,
+            0.3,
+            0.2
+          ],
+          "frame": 90
+        },
+        {
+          "id": "p14-role",
+          "src": "/frames/091-p14-role.webp",
+          "thumb": "/thumbs/091-p14-role.webp",
+          "role": "wide",
+          "caption": "Old role: quantity and energy. New role: defend childhood.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1098,
+          "height": 506,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.345,
+            0.475,
+            0.615,
+            0.2
+          ],
+          "frame": 91
+        },
+        {
+          "id": "p14-play",
+          "src": "/frames/092-p14-play.webp",
+          "thumb": "/thumbs/092-p14-play.webp",
+          "role": "wide",
+          "caption": "Parents, let children be children.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1642,
+          "height": 366,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.04,
+            0.68,
+            0.92,
+            0.145
+          ],
+          "frame": 92
+        },
+        {
+          "id": "p14-quote",
+          "src": "/frames/093-p14-quote.webp",
+          "thumb": "/thumbs/093-p14-quote.webp",
+          "role": "wide",
+          "caption": "A biscuit brand stopped selling quantity. It started standing up for childhood.",
+          "quote": "Do not make childhood useful. Protect it.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 329,
+          "page": 14,
+          "pageSrc": "/pages/page-14.webp",
+          "box": [
+            0.04,
+            0.825,
+            0.92,
+            0.13
+          ],
+          "frame": 93
+        }
+      ]
+    },
+    {
+      "id": "encore",
+      "title": "How about one more?",
+      "kicker": "Encore",
+      "page": 15,
+      "pageSrc": "/pages/page-15.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p15-splash",
+          "src": "/frames/094-p15-splash.webp",
+          "thumb": "/thumbs/094-p15-splash.webp",
+          "role": "interstitial",
+          "caption": "This is what happens when a strategist refuses to shut up.",
+          "quote": "",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 15,
+          "pageSrc": "/pages/page-15.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 94
+        }
+      ]
+    },
+    {
+      "id": "olpers-deep",
+      "title": "Olper's and the boiling pot",
+      "kicker": "The real competitor was not another carton. It was a behaviour sitting on the stove.",
+      "page": 16,
+      "pageSrc": "/pages/page-16.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p16-header",
+          "src": "/frames/095-p16-header.webp",
+          "thumb": "/thumbs/095-p16-header.webp",
+          "role": "wide",
+          "caption": "The real competitor was not another carton. It was a behaviour sitting on the stove.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 303,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.12
+          ],
+          "frame": 95
+        },
+        {
+          "id": "p16-milkman",
+          "src": "/frames/096-p16-milkman.webp",
+          "thumb": "/thumbs/096-p16-milkman.webp",
+          "role": "detail",
+          "caption": "The milkman knew your gate.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 535,
+          "height": 505,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.04,
+            0.145,
+            0.3,
+            0.2
+          ],
+          "frame": 96
+        },
+        {
+          "id": "p16-trust",
+          "src": "/frames/097-p16-trust.webp",
+          "thumb": "/thumbs/097-p16-trust.webp",
+          "role": "detail",
+          "caption": "Trust does not always wait for proof.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 536,
+          "height": 505,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.345,
+            0.145,
+            0.3,
+            0.2
+          ],
+          "frame": 97
+        },
+        {
+          "id": "p16-stove",
+          "src": "/frames/098-p16-stove.webp",
+          "thumb": "/thumbs/098-p16-stove.webp",
+          "role": "detail",
+          "caption": "The real barrier was sitting on the stove.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 553,
+          "height": 505,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.65,
+            0.145,
+            0.31,
+            0.2
+          ],
+          "frame": 98
+        },
+        {
+          "id": "p16-science",
+          "src": "/frames/099-p16-science.webp",
+          "thumb": "/thumbs/099-p16-science.webp",
+          "role": "detail",
+          "caption": "Our answer: packaged milk built on science.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 535,
+          "height": 404,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.04,
+            0.35,
+            0.3,
+            0.16
+          ],
+          "frame": 99
+        },
+        {
+          "id": "p16-process",
+          "src": "/frames/100-p16-process.webp",
+          "thumb": "/thumbs/100-p16-process.webp",
+          "role": "detail",
+          "caption": "The controlled UHT process. No boiling needed.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 643,
+          "height": 404,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.345,
+            0.35,
+            0.36,
+            0.16
+          ],
+          "frame": 100
+        },
+        {
+          "id": "p16-we-boil",
+          "src": "/frames/101-p16-we-boil.webp",
+          "thumb": "/thumbs/101-p16-we-boil.webp",
+          "role": "detail",
+          "caption": "The rationalisation in one line: we boil it.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 446,
+          "height": 404,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.71,
+            0.35,
+            0.25,
+            0.16
+          ],
+          "frame": 101
+        },
+        {
+          "id": "p16-attack",
+          "src": "/frames/102-p16-attack.webp",
+          "thumb": "/thumbs/102-p16-attack.webp",
+          "role": "wide",
+          "caption": "You boil, you spoil.",
+          "quote": "If boiling becomes the stigma, the loose milk habit starts to crack.",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1107,
+          "height": 505,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.04,
+            0.52,
+            0.62,
+            0.2
+          ],
+          "frame": 102
+        },
+        {
+          "id": "p16-vs",
+          "src": "/frames/103-p16-vs.webp",
+          "thumb": "/thumbs/103-p16-vs.webp",
+          "role": "detail",
+          "caption": "Loose vs. controlled. The barrier was not availability. It was justification.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 535,
+          "height": 505,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.66,
+            0.52,
+            0.3,
+            0.2
+          ],
+          "frame": 103
+        },
+        {
+          "id": "p16-habit",
+          "src": "/frames/104-p16-habit.webp",
+          "thumb": "/thumbs/104-p16-habit.webp",
+          "role": "wide",
+          "caption": "From this habit, to this carton, to this family, to this new normal.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 892,
+          "height": 303,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.04,
+            0.725,
+            0.5,
+            0.12
+          ],
+          "frame": 104
+        },
+        {
+          "id": "p16-quote",
+          "src": "/frames/105-p16-quote.webp",
+          "thumb": "/thumbs/105-p16-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "The competitor was not the carton beside us. It was the boiling pot inside the kitchen.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 277,
+          "page": 16,
+          "pageSrc": "/pages/page-16.webp",
+          "box": [
+            0.04,
+            0.85,
+            0.92,
+            0.11
+          ],
+          "frame": 105
+        }
+      ]
+    },
+    {
+      "id": "one-last",
+      "title": "Okay, just one last.",
+      "kicker": "Because some stories deserve their moment.",
+      "page": 17,
+      "pageSrc": "/pages/page-17.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p17-splash",
+          "src": "/frames/106-p17-splash.webp",
+          "thumb": "/thumbs/106-p17-splash.webp",
+          "role": "interstitial",
+          "caption": "Sometimes it's not just about fixing a company. It's about restoring a nation's belief in itself.",
+          "quote": "",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 17,
+          "pageSrc": "/pages/page-17.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 106
+        }
+      ]
+    },
+    {
+      "id": "hbl",
+      "title": "HBL and every dream counts",
+      "kicker": "When a bank for the people started feeling far away from the people",
+      "page": 18,
+      "pageSrc": "/pages/page-18.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p18-header",
+          "src": "/frames/107-p18-header.webp",
+          "thumb": "/thumbs/107-p18-header.webp",
+          "role": "wide",
+          "caption": "Jahan khwab, wahan HBL. Wherever there is a dream, there is HBL.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 354,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.04,
+            0.028,
+            0.92,
+            0.14
+          ],
+          "frame": 107
+        },
+        {
+          "id": "p18-legacy",
+          "src": "/frames/108-p18-legacy.webp",
+          "thumb": "/thumbs/108-p18-legacy.webp",
+          "role": "grid-beat",
+          "caption": "1. A legacy of trust. A bank of the masses.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 857,
+          "height": 455,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.04,
+            0.17,
+            0.48,
+            0.18
+          ],
+          "frame": 108
+        },
+        {
+          "id": "p18-drift",
+          "src": "/frames/109-p18-drift.webp",
+          "thumb": "/thumbs/109-p18-drift.webp",
+          "role": "grid-beat",
+          "caption": "2. The problem: we drifted. We were celebrating dreams people didn't feel seen in.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 785,
+          "height": 455,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.52,
+            0.17,
+            0.44,
+            0.18
+          ],
+          "frame": 109
+        },
+        {
+          "id": "p18-listen",
+          "src": "/frames/110-p18-listen.webp",
+          "thumb": "/thumbs/110-p18-listen.webp",
+          "role": "wide",
+          "caption": "3. We listened across Pakistan. Big cities. Small towns. Every place.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 1642,
+          "height": 505,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.04,
+            0.355,
+            0.92,
+            0.2
+          ],
+          "frame": 110
+        },
+        {
+          "id": "p18-insight",
+          "src": "/frames/111-p18-insight.webp",
+          "thumb": "/thumbs/111-p18-insight.webp",
+          "role": "detail",
+          "caption": "Dreams do not have to be grand to be life changing. They have to be real.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 393,
+          "height": 556,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.04,
+            0.56,
+            0.22,
+            0.22
+          ],
+          "frame": 111
+        },
+        {
+          "id": "p18-role",
+          "src": "/frames/112-p18-role.webp",
+          "thumb": "/thumbs/112-p18-role.webp",
+          "role": "detail",
+          "caption": "I brought back the human stories. I reframed the brief.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 499,
+          "height": 556,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.26,
+            0.56,
+            0.28,
+            0.22
+          ],
+          "frame": 112
+        },
+        {
+          "id": "p18-shift",
+          "src": "/frames/113-p18-shift.webp",
+          "thumb": "/thumbs/113-p18-shift.webp",
+          "role": "wide",
+          "caption": "The campaign. The platform. Every Dream Counts.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": true,
+          "width": 741,
+          "height": 556,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.545,
+            0.56,
+            0.415,
+            0.22
+          ],
+          "frame": 113
+        },
+        {
+          "id": "p18-quote",
+          "src": "/frames/114-p18-quote.webp",
+          "thumb": "/thumbs/114-p18-quote.webp",
+          "role": "wide",
+          "caption": "",
+          "quote": "The job was not to make dreams bigger. It was to make the bank feel closer to the dreams people already had.",
+          "pin": true,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 404,
+          "page": 18,
+          "pageSrc": "/pages/page-18.webp",
+          "box": [
+            0.04,
+            0.79,
+            0.92,
+            0.16
+          ],
+          "frame": 114
+        }
+      ]
+    },
+    {
+      "id": "colophon",
+      "title": "There is more.",
+      "kicker": "This portfolio is just a glimpse.",
+      "page": 19,
+      "pageSrc": "/pages/page-19.webp",
+      "pageWidth": 2035,
+      "pageHeight": 2880,
+      "panels": [
+        {
+          "id": "p19-splash",
+          "src": "/frames/115-p19-splash.webp",
+          "thumb": "/thumbs/115-p19-splash.webp",
+          "role": "splash",
+          "caption": "Portfolios tell you what I made. Conversations reveal why.",
+          "quote": "Judging a strategist from a portfolio is a bit like judging wine from the label without opening the bottle.",
+          "pin": true,
+          "kenBurns": true,
+          "width": 1240,
+          "height": 1800,
+          "page": 19,
+          "pageSrc": "/pages/page-19.webp",
+          "box": [
+            0.034,
+            0.022,
+            0.932,
+            0.956
+          ],
+          "frame": 115
+        },
+        {
+          "id": "p19-thanks",
+          "src": "/frames/116-p19-thanks.webp",
+          "thumb": "/thumbs/116-p19-thanks.webp",
+          "role": "wide",
+          "caption": "For scrolling, reading, and sticking around. Hope to see you soon.",
+          "quote": "",
+          "pin": false,
+          "kenBurns": false,
+          "width": 1642,
+          "height": 353,
+          "page": 19,
+          "pageSrc": "/pages/page-19.webp",
+          "box": [
+            0.04,
+            0.82,
+            0.92,
+            0.14
+          ],
+          "frame": 116
+        }
+      ]
+    }
+  ],
+  "totalFrames": 116,
+  "characters": [
+    {
+      "id": "salman-airport",
+      "src": "/characters/salman-airport.webp",
+      "chapterId": "cover",
+      "panelId": "cover-airport",
+      "page": 1,
+      "anchor": "right",
+      "x": 0.5,
+      "y": 0.2,
+      "w": 0.48,
+      "h": 0.56,
+      "width": 666,
+      "height": 1100
+    },
+    {
+      "id": "salman-groupchat",
+      "src": "/characters/salman-groupchat.webp",
+      "chapterId": "cover",
+      "panelId": "cover-quote",
+      "page": 1,
+      "anchor": "right",
+      "x": 0.54,
+      "y": 0.52,
+      "w": 0.42,
+      "h": 0.4,
+      "width": 750,
+      "height": 1010
+    },
+    {
+      "id": "salman-edit",
+      "src": "/characters/salman-edit.webp",
+      "chapterId": "what-is-a-portfolio",
+      "panelId": "p2-award",
+      "page": 2,
+      "anchor": "right",
+      "x": 0.52,
+      "y": 0.14,
+      "w": 0.44,
+      "h": 0.28,
+      "width": 785,
+      "height": 707
+    },
+    {
+      "id": "salman-kitchen",
+      "src": "/characters/salman-kitchen.webp",
+      "chapterId": "what-is-a-portfolio",
+      "panelId": "p2-not-pointless",
+      "page": 2,
+      "anchor": "right",
+      "x": 0.52,
+      "y": 0.4,
+      "w": 0.44,
+      "h": 0.28,
+      "width": 785,
+      "height": 707
+    },
+    {
+      "id": "salman-war-room",
+      "src": "/characters/salman-war-room.webp",
+      "chapterId": "building-strategy",
+      "panelId": "p4-war-room",
+      "page": 4,
+      "anchor": "left",
+      "x": 0.22,
+      "y": 0.32,
+      "w": 0.28,
+      "h": 0.28,
+      "width": 500,
+      "height": 707
+    },
+    {
+      "id": "salman-powerpoint",
+      "src": "/characters/salman-powerpoint.webp",
+      "chapterId": "building-strategy",
+      "panelId": "p4-quote",
+      "page": 4,
+      "anchor": "right",
+      "x": 0.6,
+      "y": 0.56,
+      "w": 0.36,
+      "h": 0.36,
+      "width": 642,
+      "height": 909
+    },
+    {
+      "id": "josh",
+      "src": "/characters/josh.webp",
+      "chapterId": "trenches-2",
+      "panelId": "p7-josh",
+      "page": 7,
+      "anchor": "left",
+      "x": 0.06,
+      "y": 0.16,
+      "w": 0.28,
+      "h": 0.22,
+      "width": 499,
+      "height": 555
+    },
+    {
+      "id": "family-milk",
+      "src": "/characters/family-milk.webp",
+      "chapterId": "trenches-2",
+      "panelId": "p7-lifebuoy",
+      "page": 7,
+      "anchor": "left",
+      "x": 0.06,
+      "y": 0.36,
+      "w": 0.28,
+      "h": 0.24,
+      "width": 499,
+      "height": 606
+    },
+    {
+      "id": "salman-behind",
+      "src": "/characters/salman-behind.webp",
+      "chapterId": "behind-the-work",
+      "panelId": "p8-splash",
+      "page": 8,
+      "anchor": "right",
+      "x": 0.32,
+      "y": 0.24,
+      "w": 0.42,
+      "h": 0.46,
+      "width": 709,
+      "height": 1100
+    },
+    {
+      "id": "salman-wait",
+      "src": "/characters/salman-wait.webp",
+      "chapterId": "interlude-wait",
+      "panelId": "p9-splash",
+      "page": 9,
+      "anchor": "right",
+      "x": 0.56,
+      "y": 0.08,
+      "w": 0.4,
+      "h": 0.34,
+      "width": 714,
+      "height": 858
+    },
+    {
+      "id": "salman-point",
+      "src": "/characters/salman-point.webp",
+      "chapterId": "interlude-wait",
+      "panelId": "p9-method",
+      "page": 9,
+      "anchor": "left",
+      "x": 0.04,
+      "y": 0.58,
+      "w": 0.36,
+      "h": 0.34,
+      "width": 642,
+      "height": 858
+    },
+    {
+      "id": "salman-pattern",
+      "src": "/characters/salman-pattern.webp",
+      "chapterId": "pattern",
+      "panelId": "p10-center",
+      "page": 10,
+      "anchor": "right",
+      "x": 0.32,
+      "y": 0.16,
+      "w": 0.38,
+      "h": 0.44,
+      "width": 671,
+      "height": 1100
+    },
+    {
+      "id": "salman-vintage",
+      "src": "/characters/salman-vintage.webp",
+      "chapterId": "vintage",
+      "panelId": "p13-splash",
+      "page": 13,
+      "anchor": "right",
+      "x": 0.54,
+      "y": 0.08,
+      "w": 0.42,
+      "h": 0.36,
+      "width": 750,
+      "height": 909
+    },
+    {
+      "id": "salman-encore",
+      "src": "/characters/salman-encore.webp",
+      "chapterId": "encore",
+      "panelId": "p15-splash",
+      "page": 15,
+      "anchor": "right",
+      "x": 0.52,
+      "y": 0.48,
+      "w": 0.44,
+      "h": 0.42,
+      "width": 785,
+      "height": 1061
+    },
+    {
+      "id": "salman-olpers",
+      "src": "/characters/salman-olpers.webp",
+      "chapterId": "olpers-deep",
+      "panelId": "p16-attack",
+      "page": 16,
+      "anchor": "left",
+      "x": 0.04,
+      "y": 0.5,
+      "w": 0.34,
+      "h": 0.24,
+      "width": 607,
+      "height": 606
+    },
+    {
+      "id": "salman-last",
+      "src": "/characters/salman-last.webp",
+      "chapterId": "one-last",
+      "panelId": "p17-splash",
+      "page": 17,
+      "anchor": "right",
+      "x": 0.3,
+      "y": 0.28,
+      "w": 0.48,
+      "h": 0.5,
+      "width": 746,
+      "height": 1100
+    },
+    {
+      "id": "salman-wine",
+      "src": "/characters/salman-wine.webp",
+      "chapterId": "colophon",
+      "panelId": "p19-splash",
+      "page": 19,
+      "anchor": "right",
+      "x": 0.3,
+      "y": 0.16,
+      "w": 0.48,
+      "h": 0.54,
+      "width": 691,
+      "height": 1100
+    }
+  ]
+}
