@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Noolam — Handwoven Kanchipuram Silk</title>
+  <meta name="description" content="Noolam is a Kanchipuram silk house: handwoven pattu, korvai checks, zari brocades and bridal silks. Try a look, pick a silk, or weave your own trio." />
+  <meta name="theme-color" content="#5b0f22" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://images.unsplash.com" />
+  <link rel="preconnect" href="https://images.pexels.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Inter+Tight:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <!-- Shared SVG defs: temple (mihrab) arch clip -->
+  <svg width="0" height="0" aria-hidden="true" style="position:absolute">
+    <defs>
+      <clipPath id="mihrab" clipPathUnits="objectBoundingBox">
+        <path d="M0,1 L0,0.34 C0,0.22 0.1,0.17 0.2,0.14 C0.32,0.11 0.42,0.07 0.47,0.02 L0.5,0 L0.53,0.02 C0.58,0.07 0.68,0.11 0.8,0.14 C0.9,0.17 1,0.22 1,0.34 L1,1 Z" />
+      </clipPath>
+    </defs>
+  </svg>
+
+  <!-- ===== Header ===== -->
+  <header class="nav" id="nav">
+    <div class="nav__pill">
+      <a href="#home" class="brand" aria-label="Noolam home">
+        <svg class="brand__mark" viewBox="0 0 32 20" aria-hidden="true"><path d="M16 1c2 4 5 6 9 6-3 1-5 4-5 8-1-3-2-4-4-5-2 1-3 2-4 5 0-4-2-7-5-8 4 0 7-2 9-6z" fill="currentColor"/></svg>
+        <span class="brand__word">NOOLAM</span>
+        <span class="brand__sub">Kanchipuram Silk</span>
+      </a>
+      <nav class="nav__links" aria-label="Primary">
+        <a href="#home" data-spy="home">Home</a>
+        <a href="#look" data-spy="look">Try the Look</a>
+        <a href="#pick" data-spy="pick">Pick a Silk</a>
+        <a href="#rack" data-spy="rack">The Rack</a>
+        <a href="#muse" data-spy="muse">The Muse</a>
+        <a href="#bridal" data-spy="bridal">Bridal</a>
+        <a href="#weave" data-spy="weave">The Weave</a>
+      </nav>
+      <div class="nav__icons">
+        <button class="icon-btn" id="wishBtn" aria-label="Wishlist">
+          <svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg>
+          <span class="count" id="wishCount">0</span>
+        </button>
+        <button class="icon-btn" id="bagBtn" aria-label="Shopping bag">
+          <svg viewBox="0 0 24 24"><path d="M6 8h12l-1 12H7L6 8z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>
+          <span class="count" id="bagCount">0</span>
+        </button>
+        <button class="btn btn--store" id="storeBtn">Visit the Store <span class="dot" aria-hidden="true"></span></button>
+        <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false"><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile menu -->
+  <div class="mmenu" id="mmenu" aria-hidden="true">
+    <nav aria-label="Mobile">
+      <a href="#home">Home</a><a href="#look">Try the Look</a><a href="#pick">Pick a Silk</a><a href="#rack">The Rack</a>
+      <a href="#muse">The Muse</a><a href="#bridal">Bridal</a><a href="#weave">The Weave</a>
+    </nav>
+    <button class="btn btn--light" data-open-store>Visit the Store</button>
+  </div>
+
+  <main id="main">
+    <!-- ===== Hero ===== -->
+    <section class="hero" id="home" aria-label="Noolam">
+      <div class="hero__slides" id="heroSlides"></div>
+      <div class="hero__shade"></div>
+      <div class="hero__content wrap">
+        <p class="eyebrow eyebrow--light">Handwoven Kanchipuram silk</p>
+        <h1 class="hero__title" data-split>Woven for the <em>Divine.</em></h1>
+        <p class="hero__lede">Pattu, korvai and pure-zari silks from the looms of Kanchipuram — chosen by hand, draped for the moments you’ll remember.</p>
+        <div class="hero__ctas">
+          <a href="#rack" class="btn btn--gold">Browse the Rack</a>
+          <a href="#look" class="btn btn--ghost">Try the Look</a>
+        </div>
+      </div>
+      <div class="hero__foot wrap">
+        <div class="hero__dots" id="heroDots" role="tablist" aria-label="Hero images"></div>
+        <a href="#moods" class="scrollcue">Scroll <span></span></a>
+      </div>
+    </section>
+
+    <!-- ===== Ribbon + Six Moods ===== -->
+    <div class="ribbon" aria-hidden="true"><div class="ribbon__track" id="ribbon"></div></div>
+
+    <section class="moods section" id="moods">
+      <div class="wrap">
+        <div class="sec-head">
+          <div>
+            <p class="eyebrow">The Noolam archive</p>
+            <h2 class="h2" data-split>Six Moods. <span class="accent">Timeless Drapes.</span></h2>
+          </div>
+          <p class="sec-head__aside">Every silk we stock falls into one of six moods. Find yours, and the rack sorts itself around you.</p>
+        </div>
+        <div class="moods__row" id="moodsRow"></div>
+      </div>
+    </section>
+
+    <!-- ===== Try the Look ===== -->
+    <section class="look section" id="look">
+      <div class="wrap">
+        <div class="sec-head">
+          <div>
+            <p class="eyebrow">Styled head to toe</p>
+            <h2 class="h2" data-split>Try the <span class="accent">Look.</span></h2>
+            <p class="sub">Six looks, styled head to toe. Tap a look to see the pieces.</p>
+          </div>
+          <button class="link-btn" id="lookBack" hidden>&larr; All looks</button>
+        </div>
+
+        <div class="look__lineup" id="lookLineup"></div>
+
+        <div class="look__detail" id="lookDetail" hidden>
+          <div class="look__meta">
+            <p class="eyebrow" id="lookNo">Look 01</p>
+            <h3 class="h3" id="lookName"></h3>
+            <p class="muted" id="lookSaree"></p>
+            <div class="look__nav">
+              <button class="round-btn" id="lookPrev" aria-label="Previous look">&larr;</button>
+              <button class="round-btn" id="lookNext" aria-label="Next look">&rarr;</button>
+            </div>
+          </div>
+          <figure class="look__figure" id="lookFigure"></figure>
+          <aside class="look__pieces">
+            <p class="eyebrow">In this look</p>
+            <ul id="lookPieces"></ul>
+            <div class="look__total"><span>Full look</span><strong id="lookTotal"></strong></div>
+            <button class="btn btn--crimson btn--block" id="lookAdd">Add the full look</button>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Pick a Silk ===== -->
+    <section class="pick section" id="pick">
+      <div class="wrap">
+        <div class="sec-head">
+          <h2 class="h2" data-split>Pick a <span class="accent">Silk.</span></h2>
+          <p class="sec-head__aside">Tilt a card, press it, poke the silk. Hit <span class="heart-inline">♥</span> to stash a saree in your bag of maybes.</p>
+        </div>
+      </div>
+      <div class="pick__row" id="pickRow"></div>
+    </section>
+
+    <!-- ===== The Rack ===== -->
+    <section class="rack section" id="rack">
+      <div class="wrap">
+        <div class="sec-head sec-head--center">
+          <p class="eyebrow">The Rack</p>
+          <h2 class="h2" data-split>Every silk, <span class="accent">on the rail.</span></h2>
+        </div>
+        <div class="chips" id="rackChips" role="tablist" aria-label="Filter the rack"></div>
+      </div>
+      <div class="rack__stage" id="rackStage">
+        <button class="round-btn rack__arrow rack__arrow--l" id="rackPrev" aria-label="Previous piece">&larr;</button>
+        <div class="rack__rod"></div>
+        <div class="rack__items" id="rackItems"></div>
+        <button class="round-btn rack__arrow rack__arrow--r" id="rackNext" aria-label="Next piece">&rarr;</button>
+      </div>
+      <div class="rack__info wrap" id="rackInfo" aria-live="polite"></div>
+    </section>
+
+    <!-- ===== The Muse ===== -->
+    <section class="muse section" id="muse">
+      <div class="wrap muse__grid" id="museGrid">
+        <div class="muse__col muse__col--l" id="museL"></div>
+        <figure class="muse__center" id="museC">
+          <figcaption>
+            <p class="eyebrow eyebrow--light">The Muse film</p>
+            <h2 class="h2 h2--light">Feel the <span class="accent accent--light">drape.</span></h2>
+            <button class="btn btn--light btn--sm" data-open-reel="0">Watch the film ▸</button>
+          </figcaption>
+        </figure>
+        <div class="muse__col muse__col--r" id="museR"></div>
+      </div>
+      <div class="wrap muse__notes" id="museNotes"></div>
+    </section>
+
+    <!-- ===== Bridal ===== -->
+    <section class="bridal section" id="bridal">
+      <div class="wrap sec-head sec-head--center">
+        <p class="eyebrow">For the muhurtham and every vow after</p>
+        <h2 class="h2" data-split>The Bridal <span class="accent">Collection.</span></h2>
+      </div>
+      <div class="arcs" id="arcs" tabindex="0" aria-label="Bridal sarees carousel. Use arrow keys."></div>
+      <div class="arcs__info">
+        <p class="arcs__name" id="arcName"></p>
+        <p class="muted" id="arcPrice"></p>
+        <div class="arcs__ctl">
+          <button class="round-btn" id="arcPrev" aria-label="Previous bridal saree">&larr;</button>
+          <button class="btn btn--crimson" id="arcAdd">Add to bag</button>
+          <button class="round-btn" id="arcNext" aria-label="Next bridal saree">&rarr;</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Reels ===== -->
+    <section class="reels section" id="reels">
+      <div class="wrap sec-head">
+        <div>
+          <p class="eyebrow">The Muse reels</p>
+          <h2 class="h2" data-split>Silk, <span class="accent">in motion.</span></h2>
+        </div>
+        <p class="sec-head__aside">Short films of our silks in the places they were made for — temple corridors, old-city lanes, a courtyard at four o’clock.</p>
+      </div>
+      <div class="reels__row" id="reelsRow"></div>
+    </section>
+
+    <!-- ===== The Weave ===== -->
+    <section class="weave section" id="weave">
+      <div class="wrap weave__top">
+        <p class="eyebrow">Seer Varisai · build a trio</p>
+        <h2 class="h2" data-split>Three silks, <span class="accent">one weave.</span></h2>
+        <p class="sub">Choose any three silks to weave into a gifting trio. Any three silks, 10% off.</p>
+      </div>
+      <div class="weave__stage">
+        <canvas id="weaveCanvas" aria-label="Animated ribbons of your three chosen silks woven together" role="img"></canvas>
+      </div>
+      <div class="wrap weave__panel">
+        <div class="weave__picked" id="weavePicked"></div>
+        <div class="weave__swatches" id="weaveSwatches" role="group" aria-label="Choose three silks"></div>
+        <div class="weave__price">
+          <span class="muted">Trio price</span>
+          <s id="weaveWas"></s>
+          <strong id="weaveNow">₹0</strong>
+          <button class="btn btn--crimson" id="weaveAdd" disabled>Add trio to bag</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Atelier + Notes + FAQ ===== -->
+    <section class="atelier section" id="atelier">
+      <div class="wrap atelier__grid">
+        <figure class="atelier__img atelier__img--a" id="atelierA"></figure>
+        <div class="atelier__copy">
+          <p class="eyebrow">From the loom</p>
+          <h2 class="h2" data-split>Two weavers, <span class="accent">one pallu.</span></h2>
+          <p>A Kanchipuram silk is woven by two people sharing one pit loom. The body, border and pallu are woven separately and interlocked by hand — the korvai — so the border never frays away from the body.</p>
+          <p>We buy directly from weaver families, pay on the day a saree comes off the loom, and tag every piece with its weave, zari type and the weeks it took.</p>
+          <a href="#faq" class="link-btn">How to read a Noolam tag &rarr;</a>
+        </div>
+        <figure class="atelier__img atelier__img--b" id="atelierB"></figure>
+      </div>
+      <div class="wrap notes" id="notes"></div>
+    </section>
+
+    <section class="faq section" id="faq">
+      <div class="wrap faq__grid">
+        <div>
+          <p class="eyebrow">Before you visit</p>
+          <h2 class="h2" data-split>Questions, <span class="accent">answered.</span></h2>
+          <p class="muted">Still unsure? <button class="link-btn" data-open-store>Book a video appointment</button></p>
+        </div>
+        <div class="faq__list" id="faqList"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== Footer ===== -->
+  <footer class="footer" id="contact">
+    <div class="wrap footer__top">
+      <h2 class="footer__title">Woven with heritage.<br /><span>Draped for today.</span></h2>
+      <p class="footer__word">NOOLAM</p>
+    </div>
+    <div class="wrap footer__cols">
+      <div>
+        <h3>Shop</h3>
+        <a href="#rack">Silk sarees</a><a href="#bridal">Bridal</a><a href="#weave">Gifting trios</a><a href="#look">Styled looks</a>
+      </div>
+      <div>
+        <h3>Visit</h3>
+        <p>Noolam Silk House<br />Gandhi Road (sample address)<br />Kanchipuram, Tamil Nadu</p>
+        <p>Open daily, 10am – 9pm</p>
+      </div>
+      <div>
+        <h3>Care</h3>
+        <a href="#faq">Silk care</a><a href="#faq">Blouse stitching</a><a href="#faq">Zari guide</a><button class="link-btn link-btn--light" data-open-store>Video appointment</button>
+      </div>
+      <form class="footer__news" id="newsForm" novalidate>
+        <h3>Letters from the loom</h3>
+        <p>New weaves, once a month. Nothing else.</p>
+        <label class="sr-only" for="newsEmail">Email address</label>
+        <div class="footer__field">
+          <input id="newsEmail" type="email" placeholder="you@example.com" required />
+          <button class="btn btn--light btn--sm" type="submit">Join</button>
+        </div>
+        <p class="footer__msg" id="newsMsg" aria-live="polite"></p>
+      </form>
+    </div>
+    <div class="wrap footer__base">
+      <p>© <span id="year"></span> Noolam Silk House. Sample brand for design preview.</p>
+      <p>Photography: Unsplash &amp; Pexels contributors.</p>
+      <div class="footer__social"><a href="#home" aria-label="Instagram">Instagram</a><a href="#home" aria-label="Pinterest">Pinterest</a><a href="#home" aria-label="YouTube">YouTube</a></div>
+    </div>
+  </footer>
+
+  <!-- ===== Overlays ===== -->
+  <div class="scrim" id="scrim" hidden></div>
+
+  <aside class="drawer" id="drawer" aria-label="Your bag" aria-hidden="true">
+    <div class="drawer__head">
+      <h2>Your bag</h2>
+      <button class="icon-btn icon-btn--dark" data-close aria-label="Close bag">✕</button>
+    </div>
+    <div class="drawer__tabs">
+      <button class="is-on" data-tab="bag">Bag</button><button data-tab="wish">Wishlist</button>
+    </div>
+    <ul class="drawer__list" id="drawerList"></ul>
+    <div class="drawer__foot" id="drawerFoot">
+      <div class="drawer__sum"><span>Subtotal</span><strong id="bagTotal">₹0</strong></div>
+      <p class="muted small">Blouse stitching and fall-pico quoted at checkout.</p>
+      <button class="btn btn--crimson btn--block" id="checkoutBtn">Request a callback to confirm</button>
+    </div>
+  </aside>
+
+  <div class="modal" id="storeModal" role="dialog" aria-modal="true" aria-labelledby="storeTitle" hidden>
+    <div class="modal__card">
+      <button class="icon-btn icon-btn--dark modal__x" data-close aria-label="Close">✕</button>
+      <div class="modal__img" id="storeImg"></div>
+      <div class="modal__body">
+        <p class="eyebrow">Visit the store</p>
+        <h2 class="h3" id="storeTitle">Sit with the silks.</h2>
+        <p class="muted">Book a quiet hour in our Kanchipuram showroom, or a 20-minute video appointment from anywhere.</p>
+        <form id="apptForm" class="form" novalidate>
+          <div class="seg" role="radiogroup" aria-label="Appointment type">
+            <label><input type="radio" name="mode" value="In store" checked /> <span>In store</span></label>
+            <label><input type="radio" name="mode" value="Video call" /> <span>Video call</span></label>
+          </div>
+          <label>Name<input name="name" required autocomplete="name" /></label>
+          <label>Phone<input name="phone" required inputmode="tel" autocomplete="tel" /></label>
+          <label>Preferred date<input name="date" type="date" required /></label>
+          <button class="btn btn--crimson btn--block" type="submit">Request appointment</button>
+          <p class="form__msg" id="apptMsg" aria-live="polite"></p>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="story" id="story" role="dialog" aria-modal="true" aria-label="Muse reels" hidden>
+    <button class="story__x" data-close aria-label="Close reels">✕</button>
+    <div class="story__stage" id="storyStage"></div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
